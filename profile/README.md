@@ -1,3 +1,5 @@
+<img src="profile/KGAI - Logo - HighRes - 4K.png" alt="KnowGuard AI" width="200">
+
 # KnowGuard AI
 
 **The Enterprise Memory OS.**
