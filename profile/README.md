@@ -42,7 +42,7 @@ More to come as we open-source pieces of the platform that have value beyond our
 
 NVIDIA NIM microservices for self-hosted LLM inference. Python, FastAPI, PostgreSQL on the application layer. Hybrid vector + graph store for the memory substrate. Containerised, deployable to VPC, on-prem, or air-gapped environments. Confidential compute on roadmap.
 
-We are an [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) member. Backed by AWS Activate, Google Cloud for Startups, and Microsoft for Startups Founders Hub.
+We are an [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) member. Backed by AWS Activate and Google Cloud.
 
 ---
 
