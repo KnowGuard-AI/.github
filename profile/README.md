@@ -1,4 +1,4 @@
-<img src="profile/KGAI - Logo - HighRes - 4K.png" alt="KnowGuard AI" width="200">
+<img src="KGAI - Logo - HighRes - 4K.png" alt="KnowGuard AI" width="1000">
 
 # KnowGuard AI
 
