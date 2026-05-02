@@ -22,7 +22,7 @@ Our v0.5 production kernel found **$8M of recoverable leakage on $401M of invoic
 
 The category sits on a stateless detection layer. We sit on a memory substrate.
 
-Every transaction analysed enriches a queryable knowledge graph. Every future detection runs against accumulated context. The architecture is designed around how biological memory actually works — fast episodic capture and slow semantic consolidation operating on different timescales — rather than around static rules and per-document scoring.
+Every transaction analysed enriches a queryable memory substrate. Every future detection runs against accumulated context.The architecture is designed around how biological memory actually works — fast episodic capture and slow semantic consolidation operating on different timescales — rather than around static rules and per-document scoring.
 
 Financial leakage prevention is the wedge. The platform is the cognitive infrastructure layer for the autonomous enterprise.
 
